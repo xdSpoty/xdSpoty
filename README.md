@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=xxspoty.de&style=for-the-badge&url=https%3A%2F%2Fxxspoty.de)](https://xxspoty.de)
 [![Twitter Follow](https://img.shields.io/twitter/follow/xdSpoty?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FxdSpoty&screen_name=xdSpoty)
+<a href="https://stimomc.de/discord"><img src="https://discordapp.com/api/guilds/664707991974576137/embed.png" alt="Discord server"/></a>
 
 ## I'm a Student, Developer and Grafikdesigner!!
 
